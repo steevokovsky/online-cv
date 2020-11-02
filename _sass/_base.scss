@@ -132,13 +132,15 @@ p {
       margin-bottom: 0px;
     }
   }
-  .languages-container {
+  .languages-container,
+  .softskills-container {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
     }
   }
 
-  .languages-list {
+  .languages-list,
+  .softskills-list {
     margin-bottom: 0;
     li {
       margin-bottom: 10px;
@@ -177,7 +179,8 @@ p {
   }
 
   .experiences-section,
-  .educations-section {
+  .educations-section,
+  .work-section {
     .item {
       margin-bottom: 30px;
     }

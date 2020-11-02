@@ -45,6 +45,11 @@ sidebar:
     - item: Foodsharing
       link:
 
+  softskills:
+    - name: Zeit- Selbstmanagement
+    - name: Präsentation
+    - name: Rhetorik
+
 career-profile:
   title: Career Profile
   summary: |
@@ -66,19 +71,32 @@ education:
     time: 09/2008 - 06/2016
     details: |
       Abiturfächer: Deutsch, Mathematik, Informatik, Religion und Englisch
-experiences:
+work:
   - role: Werkstudent Softwareentwicklung
     time: seit 10/2020
     company: Makandra GmbH, Augsburg
     details: |
       In meiner aktuellen Position als Werkstudent bei makandra unterstütze ich das Entwickler-Team bei Nebenaufgaben, 
-      Bugfixes und in den Semesterferien auch bei großen Projekten. 
-
-      Technologien:
-        - HTML, CSS, Javascript
-        - Ruby on Rails
-        - Test-Frameworks
-
+      Bugfixes und in den Semesterferien auch bei großen Projekten.
+  - role: Werkstudent Full-Stack Entwicklung
+    time: 05/2019 - 04/2020
+    company: stampay GmbH, Augsburg
+    details: |
+      Bei stampay nahm ich mehrere Rollen ein. Einerseits durfte ich das Design einer mobilen Payment-Platform umsetzen und erweitern. Andererseits 
+      konnte ich das Back-End der bestehenden Applikationen mit neuen Funktionalitäten erweitern.
+  - role: Werkstudent Full-Stack Entwicklung
+    time: 05/2017 - 04/2019
+    company: KUKA Deutschland GmbH, Augsburg
+    details: |
+      Mein erster Werkstudentenjob hat mir neben fundierten Kenntnissen in der Fullstack-Entwicklung auch den Berufsalltag und die Arbeitsweise im 
+      IT-Bereich näher gebracht.
+  - role: Ferienarbeit
+    time: 2013 - 2016
+    company: DruckArt, Kaufering
+    details: |
+      Neben meiner Schulausbildung habe ich bei der Firma DruckArt im Bereich der manuellen Konfektion und Versand meine ersten Berufserfahrungen gesammelt. 
+      Hier habe ich vor allem gelernt, wie man effektiv, effizient und innovativ an Aufgaben herangehen kann.
+experiences:
   - role: Praktikum Softwareentwicklung
     time: 08/2020 - 09/2020
     company: Makandra GmbH, Augsburg
@@ -87,40 +105,6 @@ experiences:
       Im ersten Teil des Praktikums habe ich mit meinem Mentor Themen wie Test-Automatisierung erlernt. Fundiertes Wissen konnte ich in dieser 
       Zeit von Web-Technologien wie HTML, CSS, Javascript, Ruby, Rails und SQL sammeln. Im zweiten Teil des Praktikums konnte ich mein erlerntes 
       Wissen auf die Probe stellen. Hier habe ich die Test-Suite eines veralteten Projekts erfolgreich ersetzt.
-
-      Technologien:
-        - HTML, CSS, Javascript
-        - Ruby on Rails
-        - Test-Frameworks
-  - role: Werkstudent Full-Stack Entwicklung
-    time: 05/2019 - 04/2020
-    company: stampay GmbH, Augsburg
-    details: |
-      Bei stampay nahm ich mehrere Rollen ein. Einerseits durfte ich das Design einer mobilen Payment-Platform umsetzen und erweitern. Andererseits 
-      konnte ich das Back-End der bestehenden Applikationen mit neuen Funktionalitäten erweitern.
-
-      Technologien:
-        - HTML, CSS, Javascript
-        - Ruby on Rails
-        - ReactJS
-        - weitere Bibliotheken
-  - role: Werkstudent Full-Stack Entwicklung
-    time: 05/2017 - 04/2019
-    company: KUKA Deutschland GmbH, Augsburg
-    details: |
-      Mein erster Werkstudentenjob hat mir neben fundierten Kenntnissen in der Fullstack-Entwicklung auch den Berufsalltag und die Arbeitsweise im 
-      IT-Bereich näher gebracht.
-
-      Technologien:
-        - HTML, CSS, Javascript, jQuery
-        - C#, Windows Server, TFS
-        - cytoscape.js und weitere Bibliotheken
-  - role: Ferienarbeit
-    time: 2013 - 2016
-    company: DruckArt, Kaufering
-    details: |
-      Neben meiner Schulausbildung habe ich bei der Firma DruckArt im Bereich der manuellen Konfektion und Versand meine ersten Berufserfahrungen gesammelt. 
-      Hier habe ich vor allem gelernt, wie man effektiv, effizient und innovativ an Aufgaben herangehen kann.
   - role: Model United Nations
     time: 2014 - 2015
     company: Wahlkurs, Leonhard-Wagner Gymnasium
